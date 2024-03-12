@@ -1,0 +1,15 @@
+name: CasinoCoin
+api: 5.0.0
+main: noahasu\casinocoin\CasinoCoin
+version: 0.0.1
+author: noahasu
+
+commands:
+  cc:
+    usage: /cc
+    description: カジノコイン
+    permission: CasinoCoin.command.cc
+
+permissions:
+  CasinoCoin.command.cc:
+    default: true
