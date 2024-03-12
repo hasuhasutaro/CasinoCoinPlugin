@@ -5,6 +5,6 @@
 | command | args | description | op |
 |---------|------|-------------|----|
 | cc | none | check cc | false |
-| cc | set | set cc | true |
-| cc | add | add cc | true |
-| cc | reduce | reduce cc | true |
+| cc | set [playername] | set cc | true |
+| cc | add [playername] | add cc | true |
+| cc | reduce [playername] | reduce cc | true |
